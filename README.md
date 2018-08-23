@@ -1,4 +1,3 @@
-﻿# hello-world
-学习不刻苦，不如
+## hello-world
 - test01
 - test02 github
