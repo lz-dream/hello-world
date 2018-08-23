@@ -1,7 +1,2 @@
 hehhee
 22hehhe
-<<<<<<< HEAD
-33bbbbb
-=======
-33aaaa
->>>>>>> branch 'master' of https://github.com/lz-dream/hello-world.git
